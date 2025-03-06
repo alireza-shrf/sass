@@ -1,0 +1,14 @@
+* {
+  font-family: vazirmatn;
+  direction: ltr;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  color: yellow;
+  background-color: black;
+  padding-left: 20px;
+}/*# sourceMappingURL=style.css.map */

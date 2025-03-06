@@ -1,0 +1,13 @@
+@import 'settings';
+*{
+    font-family: $font-name;
+    direction: $site-direction;
+}
+h1{
+    font-size: $font-larg;
+}
+p{
+    color: $color;
+    background-color: $bg-color;
+    padding-left: $padding-left;
+}
